@@ -1,0 +1,318 @@
+
+swing
+
+
+├── Bart & Baker - Best of Electro Swing
+│   ├── Disc 1
+│   │   ├── 01 - Mr Scruff - Get A Move On.flac
+│   │   ├── 02 - Caravan Palace - Jolie Coquine.flac
+│   │   ├── 03 - Chinese Man - I've Got That Tune.flac
+│   │   ├── 04 - Parov Stelar - Clap Your Hands (Bart&Baker; Remix).flac
+│   │   ├── 05 - Adss - Swing Mood (Castaman Edit Mix).flac
+│   │   ├── 06 - Bart&Baker; - Istanbul 2016.flac
+│   │   ├── 07 - De-Phazz - The Mambo Craze.flac
+│   │   ├── 08 - Dj Disse & Betina Bager Feat. Fred Astaire - Cheek To Cheek.flac
+│   │   ├── 09 - Fred Astaire - Puttin' On The Ritz (Club des Belugas Remix).flac
+│   │   ├── 10 - Jewdyssee - Cabaret.flac
+│   │   ├── 11 - Louis Armstrong - Cuban Pete (Pep's Show Boys & S.Rö & Russo Remix).flac
+│   │   ├── 12 - Tomato Jack - Bei Mir Bist du Schoen.flac
+│   │   ├── 13 - Dimie Cat - Everybody Wants To Be A Cat.flac
+│   │   ├── 14 - Swing Republic - Crazy In Love.flac
+│   │   ├── 15 - Analogik - Gypsie Doodle.flac
+│   │   ├── 16 - Ella Fitzgerald - Air Mail Special (Club Des Belugas Remix).flac
+│   │   ├── 17 - Lazy Flow - Mambo Fever (Original Mix).flac
+│   │   ├── 18 - Revel Harry, Joe Venuti & Joe Martin - Doin' The Uptown Lowdown (Jive Me Remix).flac
+│   │   ├── 19 - Louie Prima & Wolfgang Lohr - Wah De Da De.flac
+│   │   ├── 20 - Bart&Baker; - Can Can.flac
+│   │   └── Various Artists - Best Of Electro Swing.jpg
+│   └── Disc 2
+│       ├── 01 - Deluxe - Pony.flac
+│       ├── 02 - Savages Y Suefo - Ballroom Breakers (Dunkelbunt Remix)[Radio Edit].flac
+│       ├── 03 - Smokey Joe & The Kid Feat. Blake Worrell - Smokid Inc.flac
+│       ├── 04 - Grant Lazlo - Busy Line.flac
+│       ├── 05 - Swingrowers - This is Swing.flac
+│       ├── 06 - Tape Five - Dixie Biscuit (42 Smiles Remix).flac
+│       ├── 07 - The Kenneth Bager Experience Feat. The Hellerup Cool School Choir - Fragment Eight The Sound Of Swing.flac
+│       ├── 08 - Caro Emerald - Pack Up The Louie (Caravan Palace Remix).flac
+│       ├── 09 - Biboulakis Feat. Nina Zeitlin - Is That Too Much To Ask.flac
+│       ├── 10 - Swahn - Stranger.flac
+│       ├── 11 - Bart&Baker; Feat. Nicolle Rochelle & Sax By C.Sharp (Swahn Remix) - Why Does Love Always End Up In Tears.flac
+│       ├── 12 - Alice Francis - Gangsterlove (Soundnomaden Remix).flac
+│       ├── 13 - Elle & The Pocket Belles - Swinging Together (C@ In The H@ Remix).flac
+│       ├── 14 - Kitten & The Hip - Shut Up And Dance (Tavo Remix).flac
+│       ├── 15 - Klischée - Tin Tin.flac
+│       ├── 16 - Lyre Le Temps - Lady Swing.flac
+│       ├── 17 - The Gentlemen Callers Of La - Showgirl (Bart&Baker; Remix).flac
+│       ├── 18 - Waldeck - Memories.flac
+│       ├── 19 - La Rochelle Band - Madame (Parov Stelar Remix).flac
+│       ├── 20 - Bart&Baker; - Whoopee (Ragtime Version).flac
+│       └── Various Artists - Best Of Electro Swing.jpg
+├── Caravan Palace - °_°
+│   ├── 01 - Lone Digger.flac
+│   ├── 02 - Comics.flac
+│   ├── 03 - Mighty.flac
+│   ├── 04 - Aftermath.flac
+│   ├── 05 - Wonderland.flac
+│   ├── 06 - Tattoos.flac
+│   ├── 07 - Midnight.flac
+│   ├── 08 - Russian.flac
+│   ├── 09 - Wonda.flac
+│   ├── 10 - Human Leather Shoes For Crocodile Dandies.flac
+│   └── 11 - Lay Down.flac
+├── Caravan Palace - Black Betty
+│   ├── 01. Black Betty (Cover).mp3
+│   └── folder.jpg
+├── Caravan Palace - Caravan Palace
+│   ├── 01 - Dragons.flac
+│   ├── 02 - Star scat.flac
+│   ├── 03 - Ended with the night.flac
+│   ├── 04 - Jolie coquine.flac
+│   ├── 05 - Oooh.flac
+│   ├── 06 - Suzy.flac
+│   ├── 07 - Je m'amuse.flac
+│   ├── 08 - Violente valse.flac
+│   ├── 09 - Brotherswing.flac
+│   ├── 10 - L'envol.flac
+│   ├── 11 - Sofa.flac
+│   ├── 12 - Bambous.flac
+│   ├── 13 - Lazy place.flac
+│   ├── 14 - We can dance.flac
+│   └── 15 - La caravane.flac
+├── Caravan Palace - Clash EP
+│   ├── 01 - Clash.flac
+│   ├── 02 - 12 juin 3049.flac
+│   ├── 03 - Clash (Jupiter Remix).flac
+│   ├── 04 - Clash (Splash Remix By Hugo).flac
+│   ├── 05 - Clash (Flash Remix By Charles).flac
+│   ├── 06 - Clash (Slash Remix By Shiny Mob).flac
+│   └── Cover_Artwork.jpg
+├── Caravan Palace - Comics
+│   ├── 01 - Comics.flac
+│   └── cover.jpg
+├── Caravan Palace - Panic
+│   ├── 01 - Queens.flac
+│   ├── 02 - Maniac.flac
+│   ├── 03 - The Dirty Side Of The Street.flac
+│   ├── 04 - 12 Juin 3049.flac
+│   ├── 05 - Rock It For Me.flac
+│   ├── 06 - Clash.flac
+│   ├── 07 - Newbop.flac
+│   ├── 08 - Glory Of Nelly.flac
+│   ├── 09 - Dramophone.flac
+│   ├── 10 - Cotton Heads.flac
+│   ├── 11 - Panic.flac
+│   ├── 12 - Pirates.flac
+│   ├── 13 - Beatophone.flac
+│   ├── 14 - Sydney.flac
+│   └── Cover.jpg
+├── Freshly Squeezed - The Best of Electro Swing, Vol. 2
+│   ├── 01 - That's Right (Jamie Berry Remix).flac
+│   ├── 02 - No No No.flac
+│   ├── 03 - Be-Bop 2 Hip-Hop.flac
+│   ├── 04 - Swing Ya Beard.flac
+│   ├── 05 - The Queen of Swing.flac
+│   ├── 06 - Lick the Spoon.flac
+│   ├── 07 - Kiawami (Skeewiff Remix).flac
+│   ├── 08 - High Hat (Grant Lazio Remix).flac
+│   ├── 09 - I Need Swing.flac
+│   ├── 10 - Xyloswing.flac
+│   ├── 11 - Via Con Me.flac
+│   ├── 12 - Sing It Back (Swingrowers Remix).flac
+│   ├── 13 - Tin Tin.flac
+│   ├── 14 - Go Feet (Radio Version).flac
+│   ├── 15 - This Dance.flac
+│   └── cover.jpg
+├── JFB - What Goes Around...
+│   ├── 01 Social Know-How.m4a
+│   └── 02 Wobble & Squeak.m4a
+├── Madeleine Peyroux - Careless Love
+│   ├── 01 Dance Me to the End of Love.flac
+│   ├── 02 Don't Wait Too Long.flac
+│   ├── 03 Don't Cry Baby.flac
+│   ├── 04 You're Gonna Make Me Lonesome When You Go.flac
+│   ├── 05 Between the Bars.flac
+│   ├── 06 No More.flac
+│   ├── 07 Lonesome Road.flac
+│   ├── 08 J'Ai Deux Amours.flac
+│   ├── 09 Weary Blues.flac
+│   ├── 10 I'll Look Around.flac
+│   ├── 11 Careless Love.flac
+│   ├── 12 This Is Heaven to Me.flac
+│   ├── Careless Love.cue
+│   ├── madeleine_peyroux_careless_love_2004_retail_cd-back.jpg
+│   ├── madeleine_peyroux_careless_love_2004_retail_cd-cd.jpg
+│   ├── madeleine_peyroux_careless_love_2004_retail_cd-front.jpg
+│   └── madeleine_peyroux_careless_love_2004_retail_cd-inlay.jpg
+├── Sweet Tooth - Spirit of Electro Swing
+│   ├── Disc 1
+│   │   ├── 01. Caravan Palace - Jolie Coquine.flac
+│   │   ├── 02. Mr. Scruff - Get A Move On.flac
+│   │   ├── 03. Tape Five - Madame Coquette [Feat. Yuliet Topaz - Aerophon Mix].flac
+│   │   ├── 04. Belleruche - Minor Swing.flac
+│   │   ├── 05. The Jivers - Move On Girl [In The Swing Remix].flac
+│   │   ├── 06. Analogik - Gypsy Doodle.flac
+│   │   ├── 07. Nekta - Here's Us.flac
+│   │   ├── 08. Biboulakis - If Only Alarms Didn't Ring [Feat. Nina Zeitlin - David Jones Radio Edit].flac
+│   │   ├── 09. Spark Arrester - Jazz Pearl [Blend Aka Mishkin Remix].flac
+│   │   ├── 10. Rube & Dusty - Big Band Jump Parts 3 & 4.flac
+│   │   ├── 11. Skeewiff - Coming Home Baby.flac
+│   │   ├── 12. Club Des Belugas - Dibidy Bop [Feat. Brenda Boykin].flac
+│   │   ├── 13. Swing Republic - Any Old Thing [Feat. Tommy Dorsey - Elektro Mix].flac
+│   │   ├── 14. Benny Berigan - Snake Charmer.flac
+│   │   ├── 15. Goldfish - Wet Welly.flac
+│   │   ├── 16. Savages Y Suefo - Svvyngsvvyng.flac
+│   │   ├── 17. Iain Mackenzie - All Aboard.flac
+│   │   ├── 18. Sweet Tooth - Venus In Hollywood [6u5 Remix].flac
+│   │   ├── 19. Shazz Man - Jelly Belly.flac
+│   │   └── 20. Dirty Sole - Skattered Jazz.flac
+│   ├── Disc 2
+│   │   ├── 01. Wax Tailor - Say Yes (Feat. A.S.M.).flac
+│   │   ├── 02. Palov - Whats That .flac
+│   │   ├── 03. The Correspondents - Washington Square.flac
+│   │   ├── 04. Club Des Belugas - It Don't Mean A Thing (Feat. Brenda Boykin).flac
+│   │   ├── 05. Biboulakis - Is That Too Much To Ask (Feat. Nina Zeitlin).flac
+│   │   ├── 06. Artie Shaw - Prosschai (Minimatic Remix).flac
+│   │   ├── 07. Lazlo - The Minor Drags (Lazlo Remix).flac
+│   │   ├── 08. Tape Five - Tequila (Gardener Of Delight Remix).flac
+│   │   ├── 09. Lena Horne - I Want A Little Doggie (Remix).flac
+│   │   ├── 10. Andrew Sisters - Rom & Coca Cola (Jojo Effect Remix).flac
+│   │   ├── 11. Funky Dl - 1947 (Feat. Lei-An & Xanton Blacq).flac
+│   │   ├── 12. Benny Sings - Get There.flac
+│   │   ├── 13. Tape Five - Bad Boy Good Man.flac
+│   │   ├── 14. Swing Republic - Daddy (Feat. Sammy Kaye).flac
+│   │   ├── 15. Kenneth Bager - Fragment Eight... The Sound Of Swing (Feat. The Hellerup Cool School Choir).flac
+│   │   ├── 16. The Correspondents - Jive Man.flac
+│   │   ├── 17. Vono Box - Hello Joe.flac
+│   │   ├── 18. Palov & Mishkin - Et De Clarinette.flac
+│   │   ├── 19. Savages Y Suefo - Black Cat Jive.flac
+│   │   └── 20. Rube - Something New.flac
+│   ├── Disc 3
+│   │   ├── 01. Lazlo - Busy Line.flac
+│   │   ├── 02. Tape Five - Dixie Biscuit (42 Smiles Remix).flac
+│   │   ├── 03. Grand St. Feat. Philipa Alexander - Joe Palooka.flac
+│   │   ├── 04. Savages Y Suefo - Do The Chicken Rag.flac
+│   │   ├── 05. In-Grid - Vive Le Swing (Gabin Brassy Remix).flac
+│   │   ├── 06. Swing Republic Feat. Count Basie & Jimmy Rushing - Peas & Rice.flac
+│   │   ├── 07. Bebo Best & The Super Lounge Orchestra - Anytime Swingers.flac
+│   │   ├── 08. Merdan Taplak - Tweet.flac
+│   │   ├── 09. The Sweet Life Society feat. Ella Fitzgerald - Dibilidong.flac
+│   │   ├── 10. Ella Fitzgerald - Air Mail Special (Club Des Belugas Remix).flac
+│   │   ├── 11. DJ Disse & Betina Bager Feat. Fred Astaire - Cheek To Cheek.flac
+│   │   ├── 12. Lazlo - I've Got A Gal In Kalamazoo (Lazlo Remix).flac
+│   │   ├── 13. Swing Republic Feat. Midred Bailey - T'ain't What You Do.flac
+│   │   ├── 14. Waldeck - Memories.flac
+│   │   ├── 15. The Jivers Feat. Anqui - Do What.flac
+│   │   ├── 16. Treva Whateva - Havana Ball.flac
+│   │   ├── 17. Skeewiff - Matador.flac
+│   │   ├── 18. Palov Feat. Angelos Angelides - The Dude.flac
+│   │   ├── 19. Soul Square - That Swing.flac
+│   │   └── 20. Caravan Palace - Ended With The Night.flac
+│   └── Disc 4
+│       ├── 01. Waldeck - Bei Mir Bist Du Schon.flac
+│       ├── 02. Caravan Palace - Dragons.flac
+│       ├── 03. Hot Steppa - Jericho.flac
+│       ├── 04. Le Cercle Feat. Chloe Del Orte - The Beat Goes On.flac
+│       ├── 05. Jem Stone - Hand Brake Jam.flac
+│       ├── 06. Fred Astaire - Puttin' On The Ritz (Club Des Belugas Remix).flac
+│       ├── 07. Unkle Ho - Kindergarten (Rube Remix).flac
+│       ├── 08. Savages Y Suefo Feat. Judie Jay - Ballroom Breakers.flac
+│       ├── 09. Swing Republic Feat. Will Bradley - Scrub Me Mama With A Boogie Beat.flac
+│       ├── 10. 78plus - Sie Will.flac
+│       ├── 11. Jem Stone - Grand Fandango.flac
+│       ├── 12. Nekta - Guess Who.flac
+│       ├── 13. N'Relax - Le Rock A Ma Douce.flac
+│       ├── 14. Betina Bager - Singing In The Rain (Love Baby).flac
+│       ├── 15. Kitten & The Hip - Jeremy Kyle (Jog On Mix).flac
+│       ├── 16. Lazlo - Sucette.flac
+│       ├── 17. Goodluck - Hop On Hop Off (Pascal And Pearce Mix).flac
+│       ├── 18. Oriol Vandela - Musicman (Rube Remix).flac
+│       ├── 19. Club Des Belugas - Hip Hip Chin Chin (Maxim Illion Mix).flac
+│       └── 20. Dks - Wah Do Wah.flac
+├── Swingrowers - (Pronounced Swing Grow'ers)
+│   ├── 1 - 10 - Swingrowers - Bidibambumbey.flac
+│   ├── 1 - 11 - Swingrowers - L'ubriaco.flac
+│   ├── 1 - 12 - Swingrowers - Red Duster Rag.flac
+│   ├── 1 - 1 - Swingrowers - Senza Ciatu.flac
+│   ├── 1 - 2 - Swingrowers - Crazy People.flac
+│   ├── 1 - 3 - Swingrowers - Craziness.flac
+│   ├── 1 - 4 - Swingrowers - Kiawami.flac
+│   ├── 1 - 5 - Swingrowers - Hot Shiver.flac
+│   ├── 1 - 6 - Swingrowers - This is Swing.flac
+│   ├── 1 - 7 - Swingrowers - At Least I Live.flac
+│   ├── 1 - 8 - Swingrowers - Nothing to Do.flac
+│   ├── 1 - 9 - Swingrowers - Minor Swing.flac
+│   └── cover.jpg
+├── Swingrowers - Remote
+│   ├── 01 - Midnight.mp3
+│   ├── 02 - Baby Lone.mp3
+│   ├── 03 - That's Right!.mp3
+│   ├── 04 - Stay Swing.mp3
+│   ├── 05 - Frank.mp3
+│   ├── 06 - Django.mp3
+│   ├── 07 - Chiovi.mp3
+│   ├── 08 - Break Out.mp3
+│   ├── 09 - Enjoy the Moment.mp3
+│   ├── 10 - Fancy.mp3
+│   ├── 11 - Why.mp3
+│   └── cover.jpg
+├── Tennessee Ernie Ford - Sixteen Tons
+│   └── Sixteen Tons.flac
+├── VA - Electro Swing V
+│   ├── 01 - Deluxe - Pony.flac
+│   ├── 02 - Bobby Short - Heebie Jeebies (7quidstudio Remodel).flac
+│   ├── 03 - Louis Prima - Shadrack (Fonograff Rework).flac
+│   ├── 04 - UC 64 - In the Mood.flac
+│   ├── 05 - Bart&Baker; - Troublesome Trumpet (Murder on the Blue Note).flac
+│   ├── 06 - Buy One Get One Free - The Subject Is Swing.flac
+│   ├── 07 - Caravan Palace - Dramophone (Bart&Baker; Remix).flac
+│   ├── 08 - R-WAN - A Pic.flac
+│   ├── 09 - Real Tuesday Weld vs. The Puppini Sisters - Last Tango in Clerkenwell.flac
+│   ├── 10 - [dunkelbunt] - Cinnamon Girl in the Sun.flac
+│   ├── 11 - Tape Five - Geraldines Routine.flac
+│   ├── 12 - Tolemada Project - Puttin' on the Ritz (D.Mark'J & Angel See Remix).flac
+│   ├── 13 - Alle Farben - Danse (Drauf & Dran Remix).flac
+│   ├── 14 - Tomato Jack - Bei mir bist du schön.flac
+│   ├── 15 - Swingrowers - This Is Swing.flac
+│   ├── 16 - La Rochelle - Madame (Parov Stelar Remix).flac
+│   ├── 17 - Parov Stelar - All Night Long.flac
+│   ├── 18 - Skeewiff - Don't Rock the Boat (Bart&Baker; Remix).flac
+│   ├── 19 - Bruno Otranto & Dani Carrera - Burlone (James Copeland Remix).flac
+│   ├── 20 - Andy LaToggo - Wunderbar (wie du heute tanzt).flac
+│   ├── 21 - Leonard Harlan & His Rockets feat. Myra Taylor - Dig It (Minimatic Remix).flac
+│   ├── 22 - Bart&Baker; feat. Kitten & The Hip - Relax-Ay-Voo.flac
+│   ├── 23 - Gabin - Doo Uap. Doo Uap, Doo Uap (Bart&Baker; Remix).flac
+│   └── Electro Swing V - Electro Swing V.jpg
+└── VA - Electro Swing VIII
+    ├── 01 - Caravan Palace - Comics.flac
+    ├── 02 - Dj Farrapo Feat Cristina Renzetti - Marcianito.flac
+    ├── 03 - Smokey Joe & The Kid Feat Blake Worrell - Smokid Inc..flac
+    ├── 04 - Soviet Suprem - French Romance (Bart&Baker; Remix).flac
+    ├── 05 - Lamuzgueule Feat Lyre Le Temps - French Kiss.flac
+    ├── 06 - Budapest Bar - Money Money Money.flac
+    ├── 07 - Elle & The Pocketbelles - Swinging Together (Cat @ The H@ Remix).flac
+    ├── 08 - Harry Roy & His Orchestra - Wah De Da De (Louie Prima & Wolfgang Lohr Remix).flac
+    ├── 09 - Caro Emerald - Quicksand.flac
+    ├── 10 - Gilda - Around The World.flac
+    ├── 11 - Incontrol & Wolfgang Lohr - Charleston.flac
+    ├── 12 - The Gentlemen Callers Of La - Showgirl (Bart&Baker; Remix).flac
+    ├── 13 - Bart&Baker; Feat George Bangable & Chris ''Sax'' Sharp - Swingtonic.flac
+    ├── 14 - Dr Cat & Dj Pony - My Man.flac
+    ├── 15 - Swahn - Stranger.flac
+    ├── 16 - Marcella Puppini - I'm In The Mood For Trouble (Bart&Baker; Remix).flac
+    ├── 17 - Extra Medium - The Lady.flac
+    ├── 18 - Swing Republic - Sing It Back (Extra Medium Remix).flac
+    ├── 19 - Bart&Baker; Feat Au P'tit Bonheur - J'veux Du Soleil (Gramophonedzie Remix).flac
+    ├── 20 - Traktorkestar - Gavotte De Carotte (Klischée Remix).flac
+    ├── 21 - Swingrowers - Enjoy The Moment (Bart&Baker; Remix).flac
+    ├── 22 - Revel Harry, Joe Venuti & Joe Martin - Doin' The Uptown Lowdown (Jive Me Remix).flac
+    ├── 23 - Bart&Baker; - Danke Schoen.flac
+    ├── Cover.jpg
+    └── Front.jpg
+
+
+22 directories, 284 files
+
+tree v1.7.0 © 1996 - 2014 by Steve Baker and Thomas Moore
+HTML output hacked and copyleft © 1998 by Francesc Rocher
+JSON output hacked and copyleft © 2014 by Florian Sesser
+Charsets / OS/2 support © 2001 by Kyosuke Tokoro

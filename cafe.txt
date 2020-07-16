@@ -1,0 +1,764 @@
+
+cafe
+
+
+├── Brown Eyes - Dominion Tank Police USA OST
+│   ├── 01 - Brown Eyes - We'll Give it Our Best Shot.flac
+│   ├── 02 - Brown Eyes - Puma Dance.flac
+│   ├── 03 - Brown Eyes - I Adore You.flac
+│   └── strangescans.blogspot.com 2011.txt
+├── DDBY - シンセ デ トウホウ イ
+│   ├── 01. DDBY - 時代親父とハイカラ少女 (シンセ デ トウホウ イ).mp3
+│   ├── 02. DDBY - 閉ざせし雲の通い路 (シンセ デ トウホウ イ).mp3
+│   ├── 03. DDBY - キャプテン・ムラサ (シンセ デ トウホウ イ).mp3
+│   ├── 04. DDBY - 幽霊客船の時空を越えた旅 (シンセ デ トウホウ イ).mp3
+│   ├── 05. DDBY - 春の湊に (シンセ デ トウホウ イ).mp3
+│   ├── 06. DDBY - 小さな小さな賢将 (シンセ デ トウホウ イ).mp3
+│   ├── 07. DDBY - 万年置き傘にご注意を (シンセ デ トウホウ イ).mp3
+│   └── 08. DDBY - スカイルーイン (シンセ デ トウホウ イ).mp3
+├── DDBY - くつろぎタイム４ [error opening dir]
+├── DDBY - おしゃれとは、こういうこと。
+│   ├── 01. オオカワトモヤ - おてんば恋娘.mp3
+│   ├── 02. オオカワトモヤ - U.N.オーエンは彼女なのか？.mp3
+│   ├── 03. オオカワトモヤ - 亡き王女の為のセプテット.mp3
+│   ├── 04. オオカワトモヤ - ヴワル魔法図書館.mp3
+│   ├── 05. オオカワトモヤ - おてんば恋娘(Pastel Color Mix).mp3
+│   ├── 06. オオカワトモヤ - 妖魔夜行.mp3
+│   ├── 07. オオカワトモヤ - ほおずきみたいに紅い魂.mp3
+│   ├── cover.jpg
+│   ├── Gensokyovn.net.url
+│   └── TouhouFC.url
+├── DDBY - くつろぎタイム3
+│   ├── 01. 雨の家.mp3
+│   ├── 02. あまがえるの物語.mp3
+│   ├── 03. 雨の日には雨の中を.mp3
+│   ├── 04. てるてるぼうず.mp3
+│   ├── 05. あじさい.mp3
+│   ├── 06. 雨のイルカ.mp3
+│   ├── 07. 読書をしましょう.mp3
+│   ├── 08. ランプの明かり.mp3
+│   ├── 09. きっとそばにいるから.mp3
+│   ├── Cover.jpg
+│   └── Leeme.txt
+├── DDBY - くつろぎタイム5
+│   ├── 01. 客室露天風呂.mp3
+│   ├── 02. マフラーの編み方.mp3
+│   ├── 03. 君たちにはまだ早い.mp3
+│   ├── 04. 思い切って買った15万円の羽毛布団.mp3
+│   ├── 05. 気の合う同期と立ち飲み屋.mp3
+│   ├── 06. かまくらとキタキツネ.mp3
+│   ├── 07. 雪だるま制作中.mp3
+│   ├── 08. さらば! 冬将軍.mp3
+│   ├── Cover.jpg
+│   ├── Disc.jpg
+│   ├── Image0001.jpg
+│   ├── Image0002.jpg
+│   ├── Image0003.jpg
+│   ├── Image0004.jpg
+│   ├── Image0005.jpg
+│   ├── Image0006.jpg
+│   ├── Image0007.jpg
+│   ├── Image0008.jpg
+│   ├── Image0009.jpg
+│   ├── Image0010.jpg
+│   └── Leeme.txt
+├── DDBY - くつろぎタイム6
+│   ├── 01 - 古代遺跡を旅して.mp3
+│   ├── 02 - 風のアーチ.mp3
+│   ├── 03 - 遠くに見える街.mp3
+│   ├── 04 - 星空メッセージ便.mp3
+│   ├── 05 - 並木通りは散歩道.mp3
+│   ├── 06 - テントウムシを初めて見た犬.mp3
+│   ├── 07 - アクアダイバー.mp3
+│   ├── 08 - サンゴ礁に沈んだ潜水艦.mp3
+│   └── cover.jpg
+├── DDBY - Cafe de Touhou 1
+│   ├── Bizen - Kaze no Miyako.flac
+│   ├── Bizen - Moshi, Sora ga Harerunara.flac
+│   ├── Coro - Mukaunosato (KiRa Remix).flac
+│   ├── KA=YA - Lotus.flac
+│   ├── koutaq - Danshoku-kei Alice.flac
+│   ├── Ludo - Below Between Beyond.flac
+│   ├── pi-e- - Jam from memories of winter.flac
+│   ├── sisimai-3go - Perfect Day Dream.flac
+│   ├── sumijun - NaTuLaL AGeNcY.flac
+│   ├── Tainokobone - faraway country.flac
+│   └── Takayan - Sky Garden.flac
+├── DDBY - Cafe de Touhou 2
+│   ├── (01) [Bizen] Seaside.flac
+│   ├── (02) [ぴーえー] unknown.your smile.flac
+│   ├── (03) [ししまい3号] 濡れた素肌に.flac
+│   ├── (04) [鯛の小骨] かんぱんバカンス.flac
+│   ├── (05) [ひろさわけんぢ] Romance for you.flac
+│   ├── (06) [OdiakeS] Skyscraper of Horizon.flac
+│   ├── (07) [KA=YA] Prime Star.flac
+│   ├── (08) [Bizen] 流星階段.flac
+│   ├── (09) [NOAH] SEAMOON.flac
+│   ├── (10) [Takayan] Old under the sun.flac
+│   ├── (11) [F] Blue Wings.flac
+│   └── cover.jpg
+├── DDBY - Cafe de Touhou 3
+│   ├── (01) [Bizen] Vintage Girl.flac
+│   ├── (02) [ぴーえー] Blue magic preset.flac
+│   ├── (03) [ginrei] theo.flac
+│   ├── (04) [なきゃむりゃ] キマグレな日曜日.flac
+│   ├── (05) [鯛の小骨] 星の交差点.flac
+│   ├── (06) [オレジナルP] ラクトガール ～ 少女密室.flac
+│   ├── (07) [tanigon] Scarlet Tea Party.flac
+│   ├── (08) [koutaq] 雨のち七色.flac
+│   ├── (09) [NOAH] 夜のアリス.flac
+│   ├── (10) [KA=YA] Sorrow of the night.flac
+│   ├── (11) [Takayan] Slow night.flac
+│   ├── (12) [F] Forevermore.flac
+│   └── cover.jpg
+├── DDBY - Cafe de Touhou 4
+│   ├── Bizen - Chiheisen ni Hi wa Shizumanai.flac
+│   ├── KA=YA - If you can save Me.flac
+│   ├── Mizuhashi Yuuki - Hohoemi no Rekishi Shoujo.flac
+│   ├── OdiakeS - Sthorer.flac
+│   ├── Okawa Tomoya - Kaze no Tayori.flac
+│   ├── pi-e- - song time with you.flac
+│   ├── Rei Shimizu - Night bard.flac
+│   ├── sisimai-3go - Madobe ni Ame.flac
+│   ├── Tainokobone - Katahoho Tsuite.flac
+│   └── Takayan - Deep-roasted coffee.flac
+├── DDBY - Cafe de Touhou 5
+│   ├── Bizen - Mercury.flac
+│   ├── Cover.jpg
+│   ├── KA=YA - Tomorrow is Another Day.flac
+│   ├── OdiakeS - Departure.flac
+│   ├── Okawa Tomoya - Silent Lullaby.flac
+│   ├── pi-e- - Sunset Flying.flac
+│   ├── Rei Shimizu - One day, in the city.flac
+│   ├── sisimai-3go - Tooi Sora no Saki e.flac
+│   ├── takayan - Long Time.flac
+│   ├── tanigon - Yoru no Hitozato wo Nozomu.flac
+│   └── Xi - black-coffee.flac
+├── DDBY - Cafe de Touhou 6
+│   ├── CON - VAGUELY PASSION.flac
+│   ├── Okawa Tomoya - Brilliant Girls.flac
+│   ├── Rei Shimizu - Wanna be free.flac
+│   ├── sa-sara - Haigoku Lullaby.flac
+│   ├── Sato Liar - heartfelt fancy.flac
+│   ├── sisimai-3go - Jigoku de Ocha.flac
+│   ├── takayan ＆ Bizen Koyanagi - Latte Art.flac
+│   └── wonder - Slope of Intention.flac
+├── DDBY - Cafe de Touhou 7
+│   ├── Aikawa Seri - Usual Place.flac
+│   ├── CON - Smoky Carrot.flac
+│   ├── corico - Autumn Wind.flac
+│   ├── cover.jpg
+│   ├── F - Mirage.flac
+│   ├── Fuefuki no Usagi - Fall of Summer Memories -Kirameku Minamo-.flac
+│   ├── KA=YA - Mellow Waves.flac
+│   ├── Rei Shimizu - River Path.flac
+│   └── tanigon - Naive Face.flac
+├── DDBY - Ghostly Field Club vol.2
+│   ├── 01. 布を広げて.mp3
+│   ├── 02. Attention.mp3
+│   ├── 03. Eyes On Me.mp3
+│   ├── 04. 雅.mp3
+│   ├── 05. 覚悟.mp3
+│   ├── 06. 静謐.mp3
+│   ├── 07. 月の妖鳥、化猫の幻.mp3
+│   ├── 08. 葬花.mp3
+│   ├── 09. 常夏海岸.mp3
+│   ├── 10. ミーミルの泉.mp3
+│   └── 11. アフタースクール・ビフォアダーク.mp3
+├── DDBY - Highway
+│   ├── DDBY - Clock.mp3
+│   ├── DDBY - Coler of the Wind.mp3
+│   ├── DDBY - Keep.mp3
+│   ├── DDBY - Midnight Cafe.mp3
+│   ├── DDBY - Mirror Wind.mp3
+│   ├── DDBY - Translucent Lake.mp3
+│   └── folder.jpg
+├── DDBY - Highway 2
+│   ├── 01 [Bizen] City.mp3
+│   ├── 02 [Bizen] Syncopation.mp3
+│   ├── 03 [Bizen] Piano soon.mp3
+│   ├── 04 [Bizen] Square Night.mp3
+│   ├── 05 [Bizen] Auto Pilot.mp3
+│   └── folder.jpg
+├── DDBY - InsTouhou
+│   ├── 01 [Bizen] Show Window.mp3
+│   ├── 02 [Bizen] Station.mp3
+│   ├── 03 [Bizen] Craftwells.mp3
+│   ├── 04 [柊秀雪] 夜雀Big Band.mp3
+│   ├── 05 [此糸ウルヱ] 朧月夜ヒメゴト.mp3
+│   └── folder.JPG
+├── DDBY - Kirisame Drive [error opening dir]
+├── DDBY - Kutsurogi Time
+│   ├── 3分45秒の鉄道旅行.mp3
+│   ├── cover.jpg
+│   ├── Fairy wind magic.mp3
+│   ├── Sunny Side.mp3
+│   ├── Tarde de Julho.mp3
+│   ├── tender glow.mp3
+│   ├── 夕焼けに染まる風.mp3
+│   ├── この道の先に.mp3
+│   ├── 遠くの青と白.mp3
+│   └── 風の家.mp3
+├── DDBY - Kutsurogi Time vol.2
+│   ├── 1. Bizen - Fukurou no Ie.mp3
+│   ├── 2. Makoto - Shizukani Kagayaku.mp3
+│   ├── 3. sa-sara - Umi ni Ochita Hoshi.mp3
+│   ├── 4. sabao - Mabuta no Ura no Sekai.mp3
+│   ├── 5. F - Silence.mp3
+│   ├── 6. Nagasaka Norimichi - Calm Light.mp3
+│   ├── 7. ryosuke tomita - Hot Milk Memories.mp3
+│   └── 8. UKKYO - Starlight Tokyo.mp3
+├── DDBY - Relax Piano
+│   ├── 01. ウィスキーを傾けて.mp3
+│   ├── 02. 赤い靴.mp3
+│   ├── 03. 安らぎタイム.mp3
+│   ├── 04. 小さなナイトたち.mp3
+│   ├── 05. 水面鏡.mp3
+│   ├── Image0001.JPG
+│   └── Image0002.JPG
+├── DDBY - RelaxTime
+│   ├── 01 - Sunset Flute.mp3
+│   ├── 02 - Sunset Cruising.mp3
+│   ├── 03 - somewhere.mp3
+│   ├── 04 - mackerelsky.mp3
+│   ├── 05 - Orange Drive.mp3
+│   ├── 06 - Beyond the Madder.mp3
+│   ├── 07 - Partly Cloudy.mp3
+│   ├── 08 - Leave the city.mp3
+│   ├── 09 - orange sea.mp3
+│   ├── 10 - Amber Dawn.mp3
+│   └── albumart.jpg
+├── DDBY - RelaxTime 2
+│   ├── 01 - 雪のレシピ.mp3
+│   ├── 02 - 暖炉を囲んで.mp3
+│   ├── 03 - Alyssum.mp3
+│   ├── 040030092705-1p.jpg
+│   ├── 04 - 帰還.mp3
+│   ├── 05 - Triangle Winter Snow.mp3
+│   ├── 06 - Let 's go home.mp3
+│   ├── 07 - Another Sky.mp3
+│   ├── 08 - pause with ....mp3
+│   ├── 09 - Double Sided.mp3
+│   ├── 10 - Diamond Dust.mp3
+│   └── 11 - 北風の坂道.mp3
+├── DDBY - Suwatte Kiku Touhou Bunkatyou
+│   ├── A Brief Vacation.mp3
+│   ├── Bell of Mugen.mp3
+│   ├── Blue sky of wind.mp3
+│   ├── Cool shade.mp3
+│   ├── cover.jpg
+│   ├── Cramped space.mp3
+│   ├── 上昇気流.mp3
+│   ├── 思い出景色.mp3
+│   ├── 窓から外を見ると.mp3
+│   ├── 近く遠い斜め色の空.mp3
+│   └── 迷い込んで迷路庭園.mp3
+├── DDBY - Taz
+│   ├── DDBY - ルーネイトエルフ.mp3
+│   ├── DDBY - U.N.オーエンは彼女なのか？ 2.mp3
+│   ├── DDBY - U.N.オーエンは彼女なのか？.mp3
+│   ├── DDBY - ツェペシュの幼き末裔.mp3
+│   ├── DDBY - おてんば恋娘.mp3
+│   ├── DDBY - 明治十七年の上海アリス.mp3
+│   ├── DDBY - 月時計 ～ ルナ・ダイアル.mp3
+│   ├── DDBY - ほおずきみたいに紅い魂.mp3
+│   ├── DDBY - ヴワル魔法図書館 2.mp3
+│   ├── DDBY - ヴワル魔法図書館.mp3
+│   └── folder.JPG
+├── DDBY - Touhou Synthesis
+│   ├── 01 - ts �l�C�e�B�u�t�F�C�X.mp3
+│   ├── 02 - ts �M�-�-�R��l������+.mp3
+│   ├── 03 - ts �����n������A�P����.mp3
+│   ├── 04 - ts �������� �` Grave of Being.mp3
+│   ├── 05 - ts �_�X���������z�.mp3
+│   ├── cover.JPG
+│   ├── Image0001.JPG
+│   └── Image0002.JPG
+├── DDBY - Touhou Synthesis 2
+│   ├── 01. ts2 死体旅行 ～ Be of good cheer!.mp3
+│   ├── 02. ts2 ハルトマンの妖怪少女.mp3
+│   ├── 03. ts2 旧地獄街道を行く.mp3
+│   ├── 04. ts2 霊知の太陽信仰 ～ Nuclear Fusion.mp3
+│   ├── 05. ts2 ラストリモート.mp3
+│   ├── 06. ts2 ラストリモート2.mp3
+│   ├── folder.jpg
+│   ├── Image0001.jpg
+│   ├── Image0002.jpg
+│   └── Info.txt
+├── DDBY - Touhou Synthesis 3
+│   ├── 01. ts3 幻視の夜 ～ Ghostly Eyes.mp3
+│   ├── 02. ts3 もう歌しか聞こえない.mp3
+│   ├── 03. ts3 狂気の瞳 ～ Invisible Full Moon.mp3
+│   ├── 04. ts3 シンデレラケージ ～ Kagome-Kagome.mp3
+│   ├── 05. ts3 エクステンドアッシュ ～ 蓬莱人.mp3
+│   ├── folder.jpg
+│   ├── Image0001.jpg
+│   ├── Image0002.jpg
+│   └── Info.txt
+├── DDBY - Touhou Synthesis 4
+│   ├── 01. ts4 オリエンタルダークフライト.mp3
+│   ├── 02. ts4 彼岸帰航.mp3
+│   ├── 03. ts4 フラワリングナイト.mp3
+│   ├── 04. ts4 六十年目の東方裁判.mp3
+│   ├── 05. ts4 春色小径.mp3
+│   ├── folder.jpg
+│   ├── Image0001.jpg
+│   ├── Image0002.jpg
+│   └── Info.txt
+├── DDBY - Touhou Synthesis 5
+│   ├── 01 - Ts5 ネクロファンタジア.mp3
+│   ├── 02 - Ts5 幽雅に咲かせ、墨染の桜 ～ Border of Life.mp3
+│   ├── 03 - Ts5 ブクレシュティの人形師.mp3
+│   ├── 04 - Ts5 アルティメットトゥルース.mp3
+│   ├── 05 - Ts5 幽霊楽団.mp3
+│   ├── cover.jpg
+│   ├── Image0001.JPG
+│   └── Image0002.JPG
+├── DDBY - Touhou UnderGround
+│   ├── 01. Paradoxical Rose.mp3
+│   ├── 02. Atmosphere.mp3
+│   ├── 03. Underpass.mp3
+│   ├── 04. Chica.mp3
+│   ├── 05. 少女、魔眼につき.mp3
+│   ├── 06. Lost Apparition.mp3
+│   ├── 07. 意識のハード・プログレッシヴ.mp3
+│   ├── 08. 神便鬼毒酒.mp3
+│   ├── 09. 翡翠眼に映りし羨望.mp3
+│   ├── 10. 進む者の途絶えた洞穴.mp3
+│   ├── 11. Fancy Beat.mp3
+│   ├── 12. Sunset Beach.mp3
+│   ├── 13. Bach Approach.mp3
+│   ├── folder.jpg
+│   ├── Image0001.JPG
+│   ├── Image0002.JPG
+│   ├── Image0003.JPG
+│   ├── Image0004.JPG
+│   └── Info.txt
+├── DDBY - Trojan Green Asteroid [error opening dir]
+├── DDBY - 二人の演奏会 -鳥船遺跡からの帰り道-
+│   ├── 01 - 衛星トリフネ.mp3
+│   ├── 02 - トロヤ群の密林.mp3
+│   ├── 03 - デザイアドライブ.mp3
+│   ├── 040030092752-1p.jpg
+│   ├── 04 - フェアリー冒険譚.mp3
+│   ├── 05 - 天鳥船神社.mp3
+│   ├── 06 - 夜空のユーフォーロマンス.mp3
+│   ├── 07 - ハルトマンの妖怪少女.mp3
+│   ├── 08 - 天鳥船神社の結界.mp3
+│   ├── 09 - 感情の摩天楼 ～ Cosmic Mind.mp3
+│   └── 10 - 宇宙に浮かぶ幻想郷.mp3
+├── DDBY - 帰り道ミュージック
+│   ├── 01. DDBY - ��H��}���+.mp3
+│   ├── 02. DDBY - ������������ɻ.mp3
+│   ├── 03. DDBY - ���o�[�T�C�h�J�t�F.mp3
+│   ├── 04. DDBY - �J��X.mp3
+│   ├── 05. DDBY - �C�����V�e�B.mp3
+│   ├── 06. DDBY - ����_�+���+���+�-.mp3
+│   ├── 07. DDBY - �^������A���+��+��o�_��.mp3
+│   └── 08. DDBY - ���l��a����.mp3
+├── DDBY - 帰り道ミュージック2
+│   ├── 01 - バスの車窓から.mp3
+│   ├── 02 - ウィンドーショッピング.mp3
+│   ├── 03 - 残業の無い金曜日.mp3
+│   ├── 04 - 光芒.mp3
+│   ├── 05 - 時速65キロ.mp3
+│   ├── 06 - 19時のコーヒーブレイク.mp3
+│   ├── 07 - イチョウ並木.mp3
+│   ├── 08 - サンセットビーチ.mp3
+│   └── cover.jpg
+├── DDBY - 東方幻想曲
+│   ├── DDBY - 二番目に愛した人.mp3
+│   ├── DDBY - 今昔街道.mp3
+│   ├── DDBY - 冬の青空.mp3
+│   ├── DDBY - 古寺妖夢.mp3
+│   ├── DDBY - 君の為に.mp3
+│   ├── DDBY - 境界線.mp3
+│   ├── DDBY - 銀鳥.mp3
+│   └── folder.JPG
+├── DDBY - ～癒しの風～ Vol.1 大空魔術
+│   ├── 01. 始まりはガレージで.mp3
+│   ├── 02. Starry Memories.mp3
+│   ├── 03. 遊星航路.mp3
+│   ├── 04. 青空の下で思う事.mp3
+│   ├── 05. 春に眠る.mp3
+│   ├── 06. 星空の見える教室から.mp3
+│   ├── 07. 神殿の謎を解き明かすのに少女は幾年の歳月を費やしていた。.mp3
+│   ├── 08. 浜辺の白い砂時計.mp3
+│   ├── 09. Dans Tes Yeux Mon Secret .mp3
+│   ├── 10. ここにいた。もうここにはいない。.mp3
+│   ├── folder.jpg
+│   ├── Image0001.JPG
+│   ├── Image0002.JPG
+│   ├── Image0003.JPG
+│   ├── Image0004.JPG
+│   ├── Image0005.JPG
+│   ├── Image0006.JPG
+│   └── Info.txt
+├── DDBY - 癒しの風 vol.3 卯酉東海道
+│   ├── Azure Journey.mp3
+│   ├── Blue Bamboo.mp3
+│   ├── cover.jpg
+│   ├── Poker.mp3
+│   ├── Sunny Cloudy.mp3
+│   ├── White Lucky Day.mp3
+│   ├── 不思議な森.mp3
+│   ├── ジェラル牧場.mp3
+│   └── 青い空、白い雲。流れる風が心地良く.mp3
+├── DDBY - 秘封旅行記
+│   ├── 01. 新緑園.mp3
+│   ├── 02. ドルフィンレイク.mp3
+│   ├── 03. 紅い洋館.mp3
+│   ├── 04. 灰の巨塔.mp3
+│   ├── 05. 月面エスカレーター.mp3
+│   ├── 06. クレーターゾーン.mp3
+│   ├── 07. クレーター内部にて.mp3
+│   ├── folder.jpg
+│   ├── Info.txt
+│   ├── Scan0001.jpg
+│   ├── Scan0002.jpg
+│   ├── Scan0003.jpg
+│   ├── Scan0004.jpg
+│   ├── Scan0005.jpg
+│   ├── Scan0006.jpg
+│   └── Scan0007.jpg
+├── DDBY - 秘封物語
+│   ├── 01 [Takayan] Temptation Rabbit.mp3
+│   ├── 02 [Takayan] Sadness of the elderly.mp3
+│   ├── 03 [Takayan] Two strains.mp3
+│   ├── 04 [Bizen] Faint.mp3
+│   ├── 05 [Bizen] Material Drug.mp3
+│   ├── 06 [此糸ウルヱ] Synchronicity[Acid Cafe Chic Edit].mp3
+│   └── folder.JPG
+├── DDBY - 秘封物語2
+│   ├── 01 [Bizen] S.O.L.mp3
+│   ├── 02 [Bizen] Reason.mp3
+│   ├── 03 [Bizen] Nevia.mp3
+│   ├── 04 [Takayan] Nighthawk.mp3
+│   ├── 05 [Takayan] Invites confusion.mp3
+│   ├── 06 [Takayan] Where Go back.mp3
+│   └── folder.JPG
+├── DDBY - 紅マジック
+│   ├── DDBY - デジタルダイヤル.mp3
+│   ├── DDBY - 一人ぼっちのかくれんぼ.mp3
+│   ├── DDBY - そして日は沈み.mp3
+│   ├── DDBY - 窓の向こう側.mp3
+│   ├── DDBY - 軽い足取りで駆け上がろう.mp3
+│   └── folder.JPG
+├── Fantastic Plastic Machine - The Fantastic Plastic Machine
+│   ├── 01 - Bon voyage.flac
+│   ├── 02 - L'aventure fantastique.flac
+│   ├── 03 - Steppin' Out.flac
+│   ├── 04 - Bachelor Pad (F.P.M. edit).flac
+│   ├── 05 - Fantastic Plastic World.flac
+│   ├── 06 - Dear Mr. Salesman.flac
+│   ├── 07 - Allen Ginsberg.flac
+│   ├── 08 - First Class '77.flac
+│   ├── 09 - Philter (In viaggio attraverso l'Australia).flac
+│   ├── 10 - Please, Stop!.flac
+│   ├── 11 - Pura Saudade (Nova Bossa Nova).flac
+│   └── cover.jpg
+├── Junko Iwao - Anime On Bossa
+│   ├── 01 キューティーハニー.m4a
+│   ├── 02 スカーレット.m4a
+│   ├── 03 Bin■Kanルージュ.m4a
+│   ├── 04 想い出がいっぱい.m4a
+│   ├── 05 Eternal Blaze.m4a
+│   ├── 06 ロックリバーへ.m4a
+│   ├── 07 海のトリトン.m4a
+│   ├── 08 魔法使いサリー.m4a
+│   ├── 09 手のひらの宇宙.m4a
+│   ├── 10 ラムのラブソング.m4a
+│   ├── 11 シャッターチャンスの連続.m4a
+│   └── 12 残酷な天使のテーゼ.m4a
+├── Minako Yoshida - Twilight Zone
+│   ├── 01 Twilight Zone (Overture).m4a
+│   ├── 02 恋.m4a
+│   ├── 03 駆けてきたたそがれ.m4a
+│   ├── 04 Melody.m4a
+│   ├── 05 恋は流星.m4a
+│   ├── 06 Uptown.m4a
+│   ├── 07 Raspberry Slope.m4a
+│   ├── 08 さよなら.m4a
+│   └── 09 Twilight Zone.m4a
+├── Nujabes - Metaphorical Music
+│   ├── 01 - Blessing It -remix (feat. Substantial & Pase Rock from Five Deez).flac
+│   ├── 02 - Horn In The Middle.flac
+│   ├── 03 - Lady Brown (feat. Cise Starr from CYNE).flac
+│   ├── 04 - Kumomi.flac
+│   ├── 05 - Highs 2 Lows (feat. Cise Starr from CYNE).flac
+│   ├── 06 - Beat Laments The World.flac
+│   ├── 07 - Letter From Yokosuka.flac
+│   ├── 08 - Think Different (feat. Substantial).flac
+│   ├── 09 - A Day By Atmosphere Supreme.flac
+│   ├── 10 - Next View (feat. Uyama Hiroto).flac
+│   ├── 11 - Latitude -remix (feat. Five Deez).flac
+│   ├── 12 - F.I.L.O. (feat. Shing02).flac
+│   ├── 13 - Summer Gypsy.flac
+│   ├── 14 - The Final View.flac
+│   ├── 15 - Peaceland.flac
+│   └── Folder.jpg
+├── Nujabes - Modal Soul
+│   ├── 01 Feather [feat. Cise Starr & Akin.flac
+│   ├── 02 Ordinary Joe [feat. Terry Callier.flac
+│   ├── 03 Reflection Eternal.flac
+│   ├── 04 Luv (sic.), Pt. 3 [feat. Shing02].flac
+│   ├── 05 Music Is Mine.flac
+│   ├── 06 Eclipse [feat. Substantial].flac
+│   ├── 07 The Sign [feat. Pase Rock].flac
+│   ├── 08 Thank You [feat. Apani B].flac
+│   ├── 09 World's End Rhapsody.flac
+│   ├── 10 Modal Soul [feat. Uyama Hiroto].flac
+│   ├── 11 Flowers.flac
+│   ├── 12 Sea of Cloud.flac
+│   ├── 13 Light on the Land.flac
+│   ├── 14 Horizon.flac
+│   ├── cover.jpg
+│   └── Modal Soul.jpg
+├── Nujabes - Spiritual State
+│   ├── 01 - Spiritual State (featuring Uyama Hiroto).flac
+│   ├── 02 - Sky is Tumbling (featuring Cise Star).flac
+│   ├── 03 - Gone Are The Days (featuring Uyama Hiroto).flac
+│   ├── 04 - Spiral.flac
+│   ├── 05 - City Lights (featuring Pase Rock & Substantial).flac
+│   ├── 06 - Color of Autumn.flac
+│   ├── 07 - Dawn on the Side.flac
+│   ├── 08 - Yes (featuring Pase Rock).flac
+│   ├── 09 - Rainyway Back Home.flac
+│   ├── 10 - Far Fowls.flac
+│   ├── 11 - Fellows.flac
+│   ├── 12 - Waiting For The Clouds (featuring Substantial).flac
+│   ├── 13 - Prayer.flac
+│   ├── 14 - Island (featuring Uyama Hiroto & haruka nakamura).flac
+│   └── Nujabes - Spiritual State.jpg
+├── Ryo Fukui - A Letter From Slowboat
+│   ├── 1.01. Sonora.flac
+│   ├── 1.02. Old Country.flac
+│   ├── 1.03. Stella by Starlight.flac
+│   ├── 1.04. Chasin' The Bird.flac
+│   ├── 1.05. Soultrane.flac
+│   ├── 1.06. Speak Low.flac
+│   ├── 1.07. Nobody Knows The Trouble l've Seen.flac
+│   ├── 1.08. Be My Love.flac
+│   └── cover.jpg
+├── Ryo Fukui - Mellow Dream
+│   ├── 01. Mellow Dream.flac
+│   ├── 02. My Foolish Heart.flac
+│   ├── 03. Baron Patato Blues.flac
+│   ├── 04. What's New.flac
+│   ├── 05. Horizon.flac
+│   ├── 06. My Funny Valentine.flac
+│   ├── 07. Early Summer (2006, At Slow Boat).flac
+│   └── Front.jpg
+├── Ryo Fukui - Scenery
+│   ├── 01. It Could Happen To You.flac
+│   ├── 02. I Want To Talk About You.flac
+│   ├── 03. Early Summer.flac
+│   ├── 04. Willow Weep For Me.flac
+│   ├── 05. Autumn Leaves.flac
+│   ├── 06. Scenery.flac
+│   └── Front.jpg
+├── SALES - SALES LP
+│   ├── 01 over.flac
+│   ├── 02 ivy.flac
+│   ├── 03 checkin' out.flac
+│   ├── 04 crash.flac
+│   ├── 05 untitled 01.flac
+│   ├── 06 pope is a rockstar.flac
+│   ├── 07 trapped in a club.flac
+│   ├── 08 mondays.flac
+│   ├── 09 big sis.flac
+│   ├── 10 jamz.flac
+│   ├── 11 be my baby.flac
+│   ├── 12 thurs 6-25.flac
+│   ├── 13 seven's day.flac
+│   ├── 14 sorry bro.flac
+│   ├── 15 best times.flac
+│   └── SALES - SALES LP - cover.png
+├── STUDIO TRAM - Moe Jazz Vol. I
+│   ├── 01 - Taiyou Iwaku Moeyo Chaos.mp3
+│   ├── 02 - Hayate No Gotoku!.mp3
+│   ├── 03 - Hyadain No Kakakata Katamoi-C.mp3
+│   ├── 04 - Yes! Yuyuyu☆Yuru Yuri♪♪.mp3
+│   ├── 05 - Keikenchi Joushou Chuu☆.mp3
+│   ├── 06 - Love Destiny.mp3
+│   ├── 07 - Seikai Ha Hitotsu! Jana!.mp3
+│   ├── 08 - Ichigo Complete.mp3
+│   ├── 09 - Hyadain No Kakakata Katamoi-C [Instrumental].mp3
+│   └── 10 - Seikai Ha Hitotsu! Jana! [Instrumental].mp3
+├── STUDIO TRAM - Moe Jazz Vol. II
+│   ├── 01 - Orange.mp3
+│   ├── 02 - YuriYura Rarara YuruYuri Daijiken.mp3
+│   ├── 03 - Secret Base -Kimi Ga Kureta Mono-.mp3
+│   ├── 04 - Renai Circulation.mp3
+│   ├── 05 - Tomadoi Bitter Tune.mp3
+│   ├── 06 - Saikyou Marubatsu Keikaku.mp3
+│   ├── 07 - Ready!!.mp3
+│   ├── 08 - Suki Suki Song.mp3
+│   ├── 09 - YuriYura Rarara YuruYuri Daijiken [Instrumental].mp3
+│   ├── 10 - Renai Circulation [Instrumental].mp3
+│   └── 11 - Ready!! [Instrumental].mp3
+├── Tatsuro Yamashita - For You
+│   ├── folder.jpg
+│   ├── Yamashita Tatsuro - For You - 01 - Sparkle.flac
+│   ├── Yamashita Tatsuro - For You - 02 - Music Book.flac
+│   ├── Yamashita Tatsuro - For You - 03 - Morning Glory.flac
+│   ├── Yamashita Tatsuro - For You - 04 - Futari.flac
+│   ├── Yamashita Tatsuro - For You - 05 - Loveland, Island.flac
+│   ├── Yamashita Tatsuro - For You - 06 - Love Talkin' (honey it's you).flac
+│   ├── Yamashita Tatsuro - For You - 07 - Hey Reporter !.flac
+│   └── Yamashita Tatsuro - For You - 08 - Your Eyes.flac
+├── Tin Pan Alley - Our Connection
+│   ├── 01 私自身.m4a
+│   ├── 02 ひとり旅.m4a
+│   ├── 03 六本木ララバイ.m4a
+│   ├── 04 ダンシング.m4a
+│   ├── 05 バレンタイン・デー.m4a
+│   ├── 06 黄昏どき.m4a
+│   ├── 07 真夜中のアマン.m4a
+│   ├── 08 哀愁の部屋.m4a
+│   ├── 09 ウィンター・コンサート.m4a
+│   ├── 10 そしてベルが鳴る.m4a
+│   ├── 11 ムーン・ライト.m4a
+│   └── 12 バイ・バイ・ジェット.m4a
+├── Toshiyuki Honda - Metropolis Original Soundtrack
+│   ├── 01 Metropolis.m4a
+│   ├── 02 Foreboding.m4a
+│   ├── 03 Ziggurat.m4a
+│   ├── 04 Going To _Zone_.m4a
+│   ├── 05 Sniper.m4a
+│   ├── 06 El Bombero.m4a
+│   ├── 07 Three-Faced Of _Zone_.m4a
+│   ├── 08 _Zone_ Rhapsody.m4a
+│   ├── 09 Hide Out.m4a
+│   ├── 10 Run.m4a
+│   ├── 11 St. James Infirmary.m4a
+│   ├── 12 Sympathy.m4a
+│   ├── 13 Snow.m4a
+│   ├── 14 Propaganda.m4a
+│   ├── 15 Chase.m4a
+│   ├── 16 Judgement.m4a
+│   ├── 17 Awakening.m4a
+│   ├── 18 Fury.m4a
+│   ├── 19 After All.m4a
+│   └── 20 There'll Never Be Good-Bye (The Theme Of Metropolis).m4a
+├── Various - Afternoon Bossa ~ Cafe · Ghibli
+│   ├── 01 カントリー・ロード ～ 『耳をすませば』.flac
+│   ├── 02 風になる ～ 『猫の恩返し』.flac
+│   ├── 03 人生のメリーゴーランド ～ 『ハウルの動く城』.flac
+│   ├── 04 崖の上のポニョ ～ 『崖の上のポニョ』.flac
+│   ├── 05 風のとおり道 ～ 『となりのトトロ』.flac
+│   ├── 06 さよならの夏～コクリコ坂から ～ 『コクリコ坂から』.flac
+│   ├── 07 やさしさに包まれたなら ～ 『魔女の宅急便』.flac
+│   ├── 08 となりのトトロ ～ 『となりのトトロ』.flac
+│   ├── 09 愛は花、君はその種子 ～ 『おもひでぽろぽろ』.flac
+│   ├── 10 ケ・セラ・セラ ～ 『ホーホケキョ となりの山田くん』.flac
+│   ├── 11 旅立ち ～ 『魔女の宅急便』.flac
+│   ├── 12 いつも何度でも ～ 『千と千尋の神隠し』.flac
+│   ├── 13 あの夏へ ～ 『千と千尋の神隠し』.flac
+│   ├── 14 テルーの唄 ～ 『ゲド戦記』.flac
+│   ├── 15 時には昔の話を ～ 『紅の豚』.flac
+│   ├── 16 アシタカとサン ～ 『もののけ姫』.flac
+│   └── cover.jpg
+├── Various Artists - Ambienticious
+│   ├── 01. Molniya - Silence Was Never Written Down.flac
+│   ├── 02. Schwarz - Keep Me Warm (feat. Funk).flac
+│   ├── 03. Future Mind - Spaceworld3.flac
+│   ├── 04. Subjazz - I Am My Memory.flac
+│   ├── 05. Relaxraum - The Magic Moon.flac
+│   ├── 06. Stanislaw Witta - Not Clear.flac
+│   ├── 07. Sensistar - Iron Mount.flac
+│   ├── 08. Taigherwuds - Francis.flac
+│   ├── 09. Massimo Voci - The Perfect Sun.flac
+│   ├── 10. Gangaji - Happy Dreams Of The Future.flac
+│   ├── 11. Eridanus - Island of Dreams.flac
+│   ├── 12. Gangaji - Happy Dreams.flac
+│   ├── 13. Cosmic Mantis - Secret of Takyiman.flac
+│   ├── 14. Heavenswork - The Beauty Of Fading Away.flac
+│   ├── 15. Armando Gomez - Forever Walking.flac
+│   ├── 16. Hot Fire - Sodeh (Original).flac
+│   ├── 17. Sensistar - Mankind Single Edit.flac
+│   ├── 18. Symphony of Meditation - Looking At The Edge Of The World.flac
+│   ├── 19. Schwarz - Keep Alive (feat. Funk).flac
+│   ├── 20. Rock Candy - Easy Life (Relaxx Version).flac
+│   ├── 21. Sunset System - High Noon.flac
+│   ├── 22. Downbeat Crackz - Time Steps.flac
+│   ├── 23. Chill Groovers - Looking my Eyes (Original).flac
+│   ├── 24. Symphony of Meditation - Time Immemorial.flac
+│   ├── 25. Blue Gallery - Blue Rain.flac
+│   ├── 26. Mr. Squirrel - Our Language Tiger.flac
+│   ├── 27. Spielwiese - Inside Outside.flac
+│   ├── 28. Peter Flower - Chill Outro.flac
+│   ├── 29. Gangaji - Raising Energy.flac
+│   ├── 30. Café Sunset - Back Home.flac
+│   ├── 31. Peter Flower - Cocktail Fusion.flac
+│   ├── 32. Dr. Drummer - Disco Frisco (Original).flac
+│   ├── 33. Black Sea - Suave fresco y bajitodesal (Original).flac
+│   ├── 34. Daniele Nacci - Water Waves (Original).flac
+│   ├── 35. Schwarz - Caribbean Sunset (feat. Funk).flac
+│   ├── 36. Café Sunset - Deep Night.flac
+│   ├── 37. Shawn Watson - Walk This Way.flac
+│   ├── 38. Carlos Estevan - The Island.flac
+│   ├── 39. Neon G - Sagrado.flac
+│   └── cover.jpg
+├── Various Artists - Future Jazz Cafe, Vol. 8
+│   ├── 01. Roberto Bronco - Spirit.flac
+│   ├── 02. Artur Bayramgalin - Let's Talk.flac
+│   ├── 03. Velvet Dreamer - Deserted Beach.flac
+│   ├── 04. Paul Eerhart - Urban Dance.flac
+│   ├── 05. Marc Hartman - Jazzalike.flac
+│   ├── 06. Hatar - Raquell.flac
+│   ├── 07. Mo'jardo - Loose Change.flac
+│   ├── 08. Paulsen, stryczek - Havana Postcard.flac
+│   ├── 09. Velvet Dreamer - 1000 Miles Away (Simon & Florzinho Remix).flac
+│   ├── 10. Roberto Bronco - Silence Of The Sirens.flac
+│   ├── 11. Van - Enchantment Costa De La Luz.flac
+│   ├── 12. Marc Hartman - Destination Unknown.flac
+│   ├── 13. Weathertunes - Beach Taxi.flac
+│   ├── 14. Five Seasons - It's All Good, Man.flac
+│   ├── 15. Bob Zopp - Summer On The Strand.flac
+│   ├── 16. Mo'jardo - Berlin Sky.flac
+│   ├── 17. Artur Bayramgalin - Indian Summer.flac
+│   ├── 18. Lemongrass - Freedom.flac
+│   ├── 19. Melba - I Want Your Sax.flac
+│   ├── 20. Coolcomotion - Femme.flac
+│   └── cover.jpg
+└── Various Artists - Sport Afterhour
+    ├── 01 Laid Back Avenue - Garden Of Life (Grooveflower Mix).flac
+    ├── 02 Cinematic - Brown Sugar (E-Wave Mix).flac
+    ├── 03 Stereo Gringos - Cosmic Tango (Smoke On The Waves Mix).flac
+    ├── 04 Jazz City - City Lights (Midnight Dream Mix).flac
+    ├── 05 Stereo Gringos - Espirito Brasileiro (Beach Mix).flac
+    ├── 06 Vladi Strecker - Birds Over The Sea (Endless Ocean Mix).flac
+    ├── 07 Phonotronic - Jupiter Junction (Midnight Mix).flac
+    ├── 08 Chillwalker - Hope (Say U Mine) (Vocal Mix).flac
+    ├── 09 Vladi Strecker - El Instante En El Mar (Sparkling Wave Cut).flac
+    ├── 10 Floating Clouds - No Silence (Francesco's Chillgroove Mix).flac
+    ├── 11 Phonotronic - Airtaxi (Moonbase Cut).flac
+    ├── 12 Mahoroba - Panorama Suite (3D Mix).flac
+    ├── 13 Space Tourist - Alien On Approach (Spacefly Mix).flac
+    ├── 14 Chillwalker - Einfach Nur Chillen 2013 (Long Version).flac
+    ├── 15 DJ Maretimo - Summer Flow (Beachparty Cut).flac
+    ├── 16 Vladi Strecker - First Dance (Opening Mix).flac
+    ├── 17 Phonotronic - C The Citylights (Flyover Mix).flac
+    ├── 18 Sean Hayman - Fly Underwater (Worldwide Cut).flac
+    ├── 19 Stereo Gringos - Hacienda Blues (Oceanwave Mix).flac
+    ├── 20 Frank Borell - Icarus (Electric Slide Mix).flac
+    ├── 21 Asian Chill Art - Geisha Lounge (Yin & Yang Mix).flac
+    ├── 22 Floating Clouds - Fading Sunshine (Horizon Mix).flac
+    ├── 23 Panafrican Project - Jurassic Path (Beat Bix).flac
+    ├── 24 Pascal Dubois - City Pictures (Cosmopolitan House Mix).flac
+    ├── 25 Vladi Strecker - The Joy Of Travel (Round The Globe Mix).flac
+    ├── 26 Pascal Dubois - The Love Scene (Chill Trip Mix).flac
+    ├── 27 Phonotronic - Trans-Electrics (Synthesis Mix).flac
+    ├── 28 Cafe Americaine - Mango Muffins (Yachtclub Cut).flac
+    ├── 29 Dreamscape - Electric Emotion (Mystic Steps Mix).flac
+    ├── 30 Sean Hayman - Digital World (Wide Open Mix).flac
+    └── Folder.jpg
+
+
+62 directories, 690 files
+
+tree v1.7.0 © 1996 - 2014 by Steve Baker and Thomas Moore
+HTML output hacked and copyleft © 1998 by Francesc Rocher
+JSON output hacked and copyleft © 2014 by Florian Sesser
+Charsets / OS/2 support © 2001 by Kyosuke Tokoro
